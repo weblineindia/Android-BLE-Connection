@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BLE connection</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="granted_permission">Permission Granted</string>
+    <string name="denied_permission">Permission Denied</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="enabled_bluetooth">Bluetooth Enabled</string>
+    <string name="off_bluetooth">Bluetooth Off</string>
+    <string name="started_scan">Started Scanning</string>
+    <string name="re_start_scan">Re-start Scan</string>
+    <string name="stop_scan">Stopped Scanning</string>
+    <string name="device_connect">Connect</string>
+    <string name="device_disconnect">Disconnect</string>
+    <string name="battery_level">%s%s</string>
+    <string name="device_network">%s dBm</string>
+</resources>
